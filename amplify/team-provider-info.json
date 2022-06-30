@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacticle-dev-144702-authRole",
+      "UnauthRoleArn": "arn:aws:iam::820116308106:role/amplify-reacticle-dev-144702-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::820116308106:role/amplify-reacticle-dev-144702-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-reacticle-dev-144702-deployment",
+      "UnauthRoleName": "amplify-reacticle-dev-144702-unauthRole",
+      "StackName": "amplify-reacticle-dev-144702",
+      "StackId": "arn:aws:cloudformation:eu-west-1:820116308106:stack/amplify-reacticle-dev-144702/bdbb9470-f872-11ec-9b53-06592778857f",
+      "AmplifyAppId": "ds57zrib3cptc"
+    }
+  }
+}
